@@ -12,7 +12,9 @@
 **Aplicações e dados**
 
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP&logoColor=00599C)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=00599C)
+![API Rest](https://img.shields.io/badge/-ApiREST-333333?style=flat&logo=apirest)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![MariaDB](https://img.shields.io/badge/-MariaDb-333333?style=flat&logo=mariadb)
@@ -22,12 +24,19 @@
 ![MongoDb](https://img.shields.io/badge/-MongoDb-333333?style=flat&logo=mongodb)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![JQuery](https://img.shields.io/badge/-JQuery-333333?style=flat&logo=jquery)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue)
+![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Node](https://img.shields.io/badge/-Node-333333?style=flat&logo=node)
-![API Rest](https://img.shields.io/badge/-ApiREST-333333?style=flat&logo=apirest)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+
+
+**Sistemas Operacionais**
+
+![Windows](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
 
 
 **Utilidades**
@@ -49,6 +58,7 @@
 ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins)
 ![NewRelic](https://img.shields.io/badge/-NewRelic-333333?style=flat&logo=newrelic)
+![Google_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 **Ferramentas de desenvolvimento**
 
