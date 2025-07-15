@@ -2,10 +2,10 @@
 
 ## Sobre mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Formada em Análise e Desenvolvimento de Sistemas.
+- 🤔 Desenvolvendo soluções de software.
+- 🎓 Sou formada em Análise e Desenvolvimento de Sistemas.
 - 💼 Minha stack de trabalho é Desenvolvimento Backend/Fullstack.
-- 🌱 Aprendendo mais sobre Python, IA Generativa, PowerBI.
+- 🌱 Aprendendo mais sobre Python, Análise de Dados, IA Generativa e Cloud.
 
 ## Minhas Habilidades
 
@@ -61,7 +61,5 @@
 
 ## Onde me encontrar
 
-<!--[![LinkedIn Badge](https:www.linkedin.com/in/annecarolldev)-->
-<a href="https://www.linkedin.com/in/annecarolldev" target="_blank">annecarolldev LinkedIn</a>
-[![Gmail Badge](https://img.shields.io/badge/-caroll.azev@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=red&link=mailto:caroll.azev@gmail.com)](mailto:caroll.azev@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/annecarolline?label=follow&style=social)](https://github.com/annecarolline)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-800080?style=flat-square&logo=Linkedin&logoColor=dd7f85&link=https://www.linkedin.com/in/annecarolldev/)](https://www.linkedin.com/in/annecarolldev/) 
+[![Gmail Badge](https://img.shields.io/badge/-caroll.azev@gmail.com-800080?style=flat-square&logo=Gmail&logoColor=dd7f85&link=mailto:caroll.azev@gmail.com)](mailto:caroll.azev@gmail.com)
