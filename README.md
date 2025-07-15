@@ -12,6 +12,7 @@
 **Aplicações e dados**
 
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP&logoColor=00599C)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=00599C)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![MariaDB](https://img.shields.io/badge/-MariaDb-333333?style=flat&logo=mariadb)
