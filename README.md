@@ -64,3 +64,5 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-800080?style=flat-square&logo=Linkedin&logoColor=dd7f85&link=https://www.linkedin.com/in/annecarolldev/)](https://www.linkedin.com/in/annecarolldev/) 
 [![Gmail Badge](https://img.shields.io/badge/-caroll.azev@gmail.com-800080?style=flat-square&logo=Gmail&logoColor=dd7f85&link=mailto:caroll.azev@gmail.com)](mailto:caroll.azev@gmail.com)
+
+[![annecarolline](https://github-readme-stats.vercel.app/api/top-langs/?username=annecarolline&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
