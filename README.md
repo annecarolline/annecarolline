@@ -2,10 +2,10 @@
 
 ## Sobre mim
 
-- 🤔 Desenvolvendo soluções de software.
+- 🤔 Desenvolvo soluções de software.
 - 🎓 Sou formada em Análise e Desenvolvimento de Sistemas.
 - 💼 Minha stack de trabalho é Desenvolvimento Backend/Fullstack.
-- 🌱 Aprendendo mais sobre Python, Análise de Dados, IA Generativa e Cloud.
+- 🌱 Estou aprendendo mais sobre Python, Análise de Dados, IA Generativa e Cloud.
 
 ## Minhas Habilidades
 
