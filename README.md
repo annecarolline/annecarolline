@@ -2,10 +2,11 @@
 
 ## Sobre mim
 
-- 🤔 Desenvolvo soluções de software.
+- 💼 Desenvolvo soluções de software.
 - 🎓 Sou formada em Análise e Desenvolvimento de Sistemas.
 - 💼 Minha stack de trabalho é Desenvolvimento Backend/Fullstack.
-- 🌱 Estou aprendendo mais sobre Python, Análise de Dados, IA Generativa e Cloud.
+- 🌱 Estou sempre aprendendo um pouco mais sobre desenvolvimento,
+e no momento também tenho me interessado por: Python, Análise de Dados, IA Generativa e Cloud.
 
 ## Minhas Habilidades
 
@@ -44,13 +45,13 @@
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=for-the-badge&logo=postman)
 ![Swagger](https://img.shields.io/badge/-Swagger-333333?style=for-the-badge&logo=swagger)
 ![PHPUnit](https://img.shields.io/badge/-PHPUnit-333333?style=for-the-badge&logo=phpunit)
-
-**DevOps**
-
 ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
 ![Composer](https://img.shields.io/badge/-Composer-333333?style=for-the-badge&logo=composer)
 ![Npm](https://img.shields.io/badge/-Npm-333333?style=for-the-badge&logo=npm)
 ![Migrations](https://img.shields.io/badge/-Migrations-333333?style=for-the-badge&logo=migrations)
+
+**DevOps**
+
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=for-the-badge&logo=bitbucket)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker)
