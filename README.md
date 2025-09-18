@@ -1,7 +1,8 @@
 ## Olá! Sou Anne Carolline👋
 
-- 💻 Desenvolvo soluções de software em #php.
+- 🌍 Brasileira / Nordestina / Sergipana
 - 🎓 Sou formada em Análise e Desenvolvimento de Sistemas.
+- 💻 Desenvolvo soluções de software em #php.
 - ❤ Banco de dados.
 - 💼 Minha stack é Desenvolvimento Backend/Fullstack.
 - 👊 Acredito que sempre podemos aprender um pouco mais,
