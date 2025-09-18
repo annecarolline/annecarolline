@@ -1,11 +1,10 @@
-## Olá! 👋
+## Olá! Sou Anne Carolline👋
 
-## Sobre mim
-
-- 💼 Desenvolvo soluções de software.
+- 💻 Desenvolvo soluções de software em #php.
 - 🎓 Sou formada em Análise e Desenvolvimento de Sistemas.
-- 💼 Minha stack de trabalho é Desenvolvimento Backend/Fullstack.
-- 🌱 Estou sempre aprendendo um pouco mais sobre desenvolvimento,
+- ❤ Banco de dados.
+- 💼 Minha stack é Desenvolvimento Backend/Fullstack.
+- 👊 Acredito que sempre podemos aprender um pouco mais,
 e no momento também tenho me interessado por: Python, Análise de Dados, IA Generativa e Cloud.
 
 ## Minhas Habilidades
